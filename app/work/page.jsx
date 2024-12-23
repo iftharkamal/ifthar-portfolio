@@ -64,6 +64,17 @@ const projects = [
     live: "https://cheery-seahorse-30e262.netlify.app/",
     github: "",
   },
+  {
+    num: "05",
+    category: "Frontend",
+    title: "PickMyMaid",
+    description:
+      "A job-seeking application tailored for the UAE market, featuring internationalization. Built with Next.js and TailwindCSS, this challenging project significantly enhanced my development skills.",
+    stack: [{ name: "Next js" }, { name: "Tailwind CSS" },],
+    image: "/Assets/pickmymaidTemplate.png",
+    live: "https://www.pickmymaid.com/",
+    github: "",
+  },
 ];
 
 const Work = () => {
